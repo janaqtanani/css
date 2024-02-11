@@ -1,0 +1,17 @@
+
+.block1{
+    
+    background-color:#d9e6f2;
+    width: 30%;
+}
+
+.contener{
+    display: flex;
+    justify-content: center;
+}
+.center {
+    text-align: center;
+  }
+  .block2{
+    background-color: #e0e0d1;
+  }
